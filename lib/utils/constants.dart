@@ -1,4 +1,6 @@
 class Constants {
   static const productBaseUrl =
-      'https://shop-cod3r-c70a4-default-rtdb.firebaseio.com';
+      'https://loja-cod3r-98ac0-default-rtdb.firebaseio.com/products';
+  static const ordersBaseUrl =
+      'https://loja-cod3r-98ac0-default-rtdb.firebaseio.com/orders';
 }
