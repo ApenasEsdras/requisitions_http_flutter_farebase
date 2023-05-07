@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "C:/PROGRAMACAO/Futter/COD3R/requisitions_http_flutter_farebase/windows"
+    "cmake.sourceDirectory": "C:/PROGRAMACAO/Futter/COD3R/requisitions_http_flutter_farebase/windows",
+    "java.compile.nullAnalysis.mode": "automatic"
 }
